@@ -1,0 +1,63 @@
+/* Primary colors variables
+   ========================================================================== */
+/* brand color - green */
+/* brand color - blue */
+/* percentage reduced for this case as 28% reaches black */
+/* brand color - turquoise */
+/* brand color - orange */
+/* brand color - cerulean */
+/* percentage reduced for this case as 28% reaches a very dark blue */
+/* brand color - red */
+/* brand color - yellow */
+/* brand color - gray */
+/* brand color - neutral */
+.ManufactoryWindow headerbar {
+  background-image: none;
+  background-color: #202429;
+  color: white;
+  border: none; }
+
+.ManufactoryWindow .ProgressButton {
+  color: white;
+  background-color: #73ba25;
+  background-image: none;
+  box-shadow: none;
+  -gtk-icon-shadow: none;
+  border: none; }
+  .ManufactoryWindow .ProgressButton:active {
+    background-color: #69aa22; }
+  .ManufactoryWindow .ProgressButton:backdrop {
+    background-color: #4a7718;
+    color: #b6b6b6; }
+  .ManufactoryWindow .ProgressButton label {
+    outline-color: transparent;
+    text-shadow: none; }
+
+.ManufactoryWindow .ActionButton {
+  color: white;
+  background-color: #35b9ab;
+  background-image: none;
+  box-shadow: none;
+  -gtk-icon-shadow: none;
+  border: none; }
+  .ManufactoryWindow .ActionButton:active {
+    background-color: #2d9d91; }
+  .ManufactoryWindow .ActionButton:backdrop {
+    background-color: #154a44;
+    color: #b6b6b6; }
+  .ManufactoryWindow .ActionButton label {
+    outline-color: transparent;
+    text-shadow: none; }
+
+.ManufactoryWindow {
+  background-color: #31363b;
+  color: white; }
+
+.ManufactoryWindow entry {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 5px 5px 0px 0px;
+  border: none;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.75);
+  box-shadow: none; }
+  .ManufactoryWindow entry:focus {
+    border-bottom-color: #73ba25; }

@@ -1,0 +1,131 @@
+/* Primary colors variables
+   ========================================================================== */
+/* brand color - green */
+// main
+$bc-green-500: #73ba25;
+// lighter
+$bc-green-100: lighten($bc-green-500, 28%); // #b9e787
+$bc-green-200: lighten($bc-green-500, 21%); // #a8e169
+$bc-green-300: lighten($bc-green-500, 14%); // #97db4b
+$bc-green-400: lighten($bc-green-500, 7%); // #85d52d
+// darker
+$bc-green-600: #69aa22;
+$bc-green-700: #5f991f;
+$bc-green-800: #54881b;
+$bc-green-900: #4a7718;
+
+/* brand color - blue */
+// main
+$bc-blue-500: #173f4f;
+// lighter
+$bc-blue-100: lighten($bc-blue-500, 28%); // #257eb7
+$bc-blue-200: lighten($bc-blue-500, 21%); // #1f6999
+$bc-blue-300: lighten($bc-blue-500, 14%); // #19557b
+$bc-blue-400: lighten($bc-blue-500, 7%); // #13405e
+// darker
+/* percentage reduced for this case as 28% reaches black */
+$bc-blue-600: darken($bc-blue-500, 3%); // #0a2333
+$bc-blue-700: darken($bc-blue-500, 6%); // #081b27
+$bc-blue-800: darken($bc-blue-500, 9%); // #05121a
+$bc-blue-900: darken($bc-blue-500, 12%); // #03090d
+
+/* brand color - turquoise */
+// main
+$bc-turquoise-500: #35b9ab;
+// lighter
+$bc-turquoise-100: lighten($bc-turquoise-500, 28%); // #9be2db
+$bc-turquoise-200: lighten($bc-turquoise-500, 21%); // #7fdad1
+$bc-turquoise-300: lighten($bc-turquoise-500, 14%); // #63d2c7
+$bc-turquoise-400: lighten($bc-turquoise-500, 7%); // #47cabc
+// darker
+$bc-turquoise-600: darken($bc-turquoise-500, 7%); // #2d9d91
+$bc-turquoise-700: darken($bc-turquoise-500, 14%); // #258278
+$bc-turquoise-800: darken($bc-turquoise-500, 21%); // #1d665e
+$bc-turquoise-900: darken($bc-turquoise-500, 28%); // #154a44
+
+/* brand color - orange */
+// main
+$bc-orange-500: #fe7f2d;
+// ligther
+$bc-orange-100: lighten($bc-orange-500, 28%); // #ffd6bb
+$bc-orange-200: lighten($bc-orange-500, 21%); // #ffc098
+$bc-orange-300: lighten($bc-orange-500, 14%); // #feaa74
+$bc-orange-400: lighten($bc-orange-500, 7%); // #fe9551
+// darker
+$bc-orange-600: darken($bc-orange-500, 7%); // #fe6909
+$bc-orange-700: darken($bc-orange-500, 14%); // #e35a01
+$bc-orange-800: darken($bc-orange-500, 21%); // #bf4b01
+$bc-orange-900: darken($bc-orange-500, 28%); // #9b3d01
+
+/* brand color - cerulean */
+// main
+$bc-cerulean-500: #21A4DF;
+// lighter
+$bc-cerulean-100: lighten($bc-cerulean-500, 28%); // #9ed7f1
+$bc-cerulean-200: lighten($bc-cerulean-500, 21%); // #7fcaec
+$bc-cerulean-300: lighten($bc-cerulean-500, 14%); // #5fbee8
+$bc-cerulean-400: lighten($bc-cerulean-500, 7%); // #40b1e3
+// darker
+/* percentage reduced for this case as 28% reaches a very dark blue */
+$bc-cerulean-600: darken($bc-cerulean-500, 3%); // #1c8dc1
+$bc-cerulean-700: darken($bc-cerulean-500, 6%); // #1776a1
+$bc-cerulean-800: darken($bc-cerulean-500, 9%); // #136082
+$bc-cerulean-900: darken($bc-cerulean-500, 12%); // #0e4963
+
+/* brand color - red */
+// main
+$bc-red-500: #dc3545;
+// lighter
+$bc-red-100: lighten($bc-red-500, 28%); // #f1afb5
+$bc-red-200: lighten($bc-red-500, 21%); // #ec9099
+$bc-red-300: lighten($bc-red-500, 14%); // #e7727d
+$bc-red-400: lighten($bc-red-500, 7%); // #e15361
+// darker
+$bc-red-600: darken($bc-red-500, 7%); // #ca2333
+$bc-red-700: darken($bc-red-500, 14%); // #ac1e2b
+$bc-red-800: darken($bc-red-500, 21%); // #8d1924
+$bc-red-900: darken($bc-red-500, 28%); // #6f131c
+
+/* brand color - yellow */
+// main
+$bc-yellow-500: #ffc107;
+// lighter
+$bc-yellow-100: lighten($bc-yellow-500, 28%); // #ffe596
+$bc-yellow-200: lighten($bc-yellow-500, 21%); // #ffdc72
+$bc-yellow-300: lighten($bc-yellow-500, 14%); // #ffd34e
+$bc-yellow-400: lighten($bc-yellow-500, 7%); // #ffca2b
+// darker
+$bc-yellow-600: #fcaf17;
+$bc-yellow-700: #eea320;
+$bc-yellow-800: #ec9126;
+$bc-yellow-900: #ea8024;
+
+/* brand color - gray */
+// main
+$bc-gray-500: #868e96;
+// lighter
+$bc-gray-50: lighten($bc-gray-500, 42%); // #f9f9fa
+$bc-gray-80: lighten($bc-gray-500, 35%); // #e6e7e9
+$bc-gray-100: lighten($bc-gray-500, 28%); // #d2d5d8
+$bc-gray-200: lighten($bc-gray-500, 21%); // #bfc4c8
+$bc-gray-300: lighten($bc-gray-500, 14%); // #acb2b7
+$bc-gray-400: lighten($bc-gray-500, 7%); // #99a0a7
+// darker
+$bc-gray-600: darken($bc-gray-500, 7%); // #737c85
+$bc-gray-700: darken($bc-gray-500, 14%); // #636a72
+$bc-gray-800: darken($bc-gray-500, 21%); // #52585f
+$bc-gray-900: darken($bc-gray-500, 28%); // #42474c
+
+/* brand color - neutral */
+$bc-white: #ffffff; //rgb(255, 255, 255);
+$bc-black: #000000; //rgb(0, 0, 0);
+
+//
+
+$headerbar-bg: #202429;
+$headerbar-fg: white;
+
+$window-bg: #31363b;
+
+$window-fg: white;
+$backdrop-fg: rgb(182, 182, 182);

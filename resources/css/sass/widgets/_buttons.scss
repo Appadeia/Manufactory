@@ -1,0 +1,38 @@
+.ProgressButton {
+    color: white;
+    background-color: $bc-green-500;
+    background-image: none;
+    box-shadow: none;
+    -gtk-icon-shadow: none;
+    border: none;
+    &:active {
+        background-color: $bc-green-600;
+    }
+    &:backdrop{
+        background-color: $bc-green-900;
+        color: $backdrop-fg;
+    }
+    label {
+        outline-color: transparent;
+        text-shadow: none;
+    }
+}
+.ActionButton {
+    color: white;
+    background-color: $bc-turquoise-500;
+    background-image: none;
+    box-shadow: none;
+    -gtk-icon-shadow: none;
+    border: none;
+    &:active {
+        background-color: $bc-turquoise-600;
+    }
+    &:backdrop{
+        background-color: $bc-turquoise-900;
+        color: $backdrop-fg;
+    }
+    label {
+        outline-color: transparent;
+        text-shadow: none;
+    }
+}

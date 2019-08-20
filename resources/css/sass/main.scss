@@ -1,0 +1,8 @@
+@import "colors";
+
+.ManufactoryWindow {
+    @import "widgets/headerbar";
+    @import "widgets/buttons";
+    @import "widgets/window";
+    @import "widgets/form-widgets";
+}

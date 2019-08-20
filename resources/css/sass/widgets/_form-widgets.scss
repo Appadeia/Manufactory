@@ -1,0 +1,10 @@
+entry {
+    background-color: rgba(0,0,0,0.2);
+    border-radius: 5px 5px 0px 0px;
+    border: none;
+    border-bottom: 3px solid transparentize($color: $window-fg, $amount: 0.25);
+    box-shadow: none;
+    &:focus {
+        border-bottom-color: $bc-green-500;
+    }
+}

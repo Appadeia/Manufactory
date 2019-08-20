@@ -1,2 +1,2 @@
-gem 'gtk3'
+gem 'gtk3',
 gem 'gdk3'

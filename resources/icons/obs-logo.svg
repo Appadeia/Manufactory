@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 176.80865 156"
+   id="svg52"
+   sodipodi:docname="obs-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="176.80865"
+   height="156">
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Open Build Service logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs56" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="959"
+     id="namedview54"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.85074488"
+     inkscape:cx="109.51626"
+     inkscape:cy="281.06434"
+     inkscape:window-x="0"
+     inkscape:window-y="144"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg52"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title2">Open Build Service logo</title>
+  <g
+     transform="matrix(0.99878353,0,0,0.99878353,-223.78744,-274.9701)"
+     id="g16">
+    <g
+       style="fill:#d1d1d1"
+       id="g10">
+      <polygon
+         points="360,351.486 398.301,371.71 401.084,412.447 352,431.495 352,351.495 352,347.686 352,275.305 360,286.733 "
+         id="polygon4" />
+      <polygon
+         points="314,286.908 314,355.288 321,353.887 321,298.733 "
+         id="polygon6" />
+      <polygon
+         points="276.018,298.215 276,362.891 283.018,361.486 283.018,309.644 "
+         id="polygon8" />
+    </g>
+    <polygon
+       style="fill:#cecece"
+       points="317,354.688 314,355.288 314,286.733 295,298.162 295,359.09 287,360.69 278,362.49 276,362.891 276,298.162 257,309.59 257,366.692 231.738,371.71 224.06,412.447 278,420.478 334.937,428.955 352,431.495 352,375.123 352,351.495 352,347.686 352,275.305 333,286.733 333,351.486 326,352.887 "
+       id="polygon12" />
+    <polygon
+       style="fill:#ffffff"
+       points="257,366.692 231.738,371.71 224.06,412.447 352,431.495 352,351.495 352,347.686 352,275.305 333,286.733 333,351.486 314,355.288 314,286.733 295,298.162 295,359.09 276,362.891 276,298.162 257,309.59 "
+       id="polygon14" />
+  </g>
+</svg>
